@@ -1,5 +1,5 @@
 # Gamemaster_mod
-Wow the first release of the mod, I hope no one will find this repo and download the mod
+This mod for M16's 1k special :)
 
 Yes the mod, woo
 Why don't upload at forge?
